@@ -1,0 +1,173 @@
+{
+    "Television" : [
+    {
+        "name": "LG",
+        "id":1,
+        "image": "https://www.reliancedigital.in/medias/LG-32LK616BPTB-Televisions-491430789-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2NjMxMHxpbWFnZS9qcGVnfGltYWdlcy9oZTYvaDFiLzk5Mjg1Mjg3ODk1MzQuanBnfGJmYzMwODMwM2IxOTI3YWY2Y2VmMWZkYzdkNWM3ZDBjODI3NDgxZTUzMmYwMTgyNTFmYzI1ZjUwMDk5YmNlODM",
+        "price": 17999,
+        "description": "LG HD Ready Smart LED TV 32 inch",
+        "category": "Television"
+    }
+    ,{
+        "name": "LG",
+        "id":2,
+        "image": "https://www.reliancedigital.in/medias/LG-32LK628BPTF-Television-491430788-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzMTQ4M3xpbWFnZS9qcGVnfGltYWdlcy9oODYvaDE5Lzk2MzM1MzMzOTQ5NzQuanBnfGExZmQ0MGU5NTZhZWQwNWU2MGVmNTBjN2EzZTdiYmEyN2VmZDY5ZWQxYTJkZjYyYjVkN2Q5ZWU3MjNiNDYxMDk",
+        "price": 21000,
+        "description": "LG HD Ready Smart LED TV 40 inch",
+        "category": "Television"
+    }
+    ,{
+        "name": "LG",
+        "id":3,
+        "image": "https://www.reliancedigital.in/medias/LG-OLED48CXPTA-Televisions-491973544-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1OTg2MnxpbWFnZS9qcGVnfGltYWdlcy9oMDUvaGUyLzk2NDMzOTA2NjQ3MzQuanBnfDQzMTE3NTM4OTZkMWM4MDg3ZjRlNWE1YjgxZmFhMzBjZjczZGQ3ZmRiM2QzOTA2ODA5MDkxYWI0NGZiMDE1NGU",
+        "price": 123400,
+        "description": "LG ULTRA HD Smart LED TV 48 inch",
+        "category": "Television"
+    }
+    ,{
+        "name": "Hisense",
+        "id":4,
+        "image": "https://www.reliancedigital.in/medias/HISENSE-50A73F-Smart-LED-492338738-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1ODM4NHxpbWFnZS9qcGVnfGltYWdlcy9oYmUvaDMyLzk3Nzg4NDI5MjcxMzQuanBnfDVhYmFiMDkwNDY3MWIwYmMxNjA0ZjFjNjBhMzhkNzVkYWExYTljNDc0YzhjOGYyNDg5NTcyZjVjYTVjNDMwY2M",
+        "price": 364563,
+        "description": "Hisense 4k ULTRA HD 50 inch",
+        "category": "Television"
+    }
+    ,{
+        "name": "Hisense",
+        "id":5,
+        "image": "https://www.reliancedigital.in/medias/HISENSE-55U6G-Smart-LED-492338741-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w3MzI5NHxpbWFnZS9qcGVnfGltYWdlcy9oODYvaDZiLzk3NzkyMzI4MzM1NjYuanBnfDI4NjQ5NDE0ZGRjOWI5NTQ5NDA3NDhiNGRiMWE3NDllN2I0ZjYxNjlmODM1NzRhYTY0NWMwOGM0ZWM4NjMwMzQ",
+        "price": 44990,
+        "description": "Hisense 4k ULTRA HD 55 inch",
+        "category": "Television"
+    }
+    ,{
+        "name": "LG",
+        "id":6,
+        "image": "https://www.reliancedigital.in/medias/LG-32LM636BPTB-Televisions-491431600-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNDg1NnxpbWFnZS9qcGVnfGltYWdlcy9oZDQvaGQ3LzkxNTczMTMyMzI5MjYuanBnfGU4M2RhODVkMDA0N2Y0NWY5YTEzYzE4Y2UwOWU1ZDdlZjYxMWU5MWIyOTBiOGVmNmU2NDk4MjcwZjc5NzU4MGQ",
+        "price": 17990,
+        "description": "LG HD Ready Smart LED TV 32 inch 32UHEUGDJUV",
+        "category": "Television"
+    }
+    ,{
+        "name": "LG",
+        "id":7,
+        "image": "https://www.reliancedigital.in/medias/LG-43-FHD-Smart-LED-TV-43LM5600-491898015-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4MDIzOXxpbWFnZS9qcGVnfGltYWdlcy9oYzgvaDQzLzk0NDE5NDA0NzE4MzguanBnfGMwYWFlODFhMTdkOTAyMDJlYmQ3NWEyNzQxOTJlNjc2OGZkYmZlNDA4NzJkZGI5MzY5ZDY3ZjU3MTRmODNmZTU",
+        "price": 27569,
+        "description": "LG ULTRA HD Smart LED TV 48 inch 43FBJHFNK",
+        "category": "Television"
+    }
+    ,{
+        "name": "TCL",
+        "id":8,
+        "image": "https://www.reliancedigital.in/medias/TCL-43S5200-Televisions-492403798-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNTM4OXxpbWFnZS9qcGVnfGltYWdlcy9oZTQvaDY5Lzk4MzI3MTE3NDk2NjIuanBnfGMzNDU1MGUwYTlkMzA0NTg4YWJiYzQ2MTg2YjFmZDYzM2EzZTkxZmY5MDc0ZGQ0NDY1NWMzMzE5NjU2NDg4MWY",
+        "price": 17563,
+        "description": "TCL HD Ready with DOLBY ATOMS",
+        "category": "Television"
+    }
+    ,{
+        "name": "TCL",
+        "id":9,
+        "image": "https://www.reliancedigital.in/medias/TCL-50C715-Televisions-491893430-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNTEwNXxpbWFnZS9qcGVnfGltYWdlcy9oYjUvaDJkLzk4MzI3MDk0NTU5MDIuanBnfDAwMWIzZTQ1YWMyZTQ5NGEyNzM4M2EzOTk5Mzc4YTU5ZmJmZGZhYWQ5YWYxMjkzZmI3NDE4ZTlmYjQ2YmU4NTA",
+        "price": 39652,
+        "description": "TCL HD Ready with DOLBY ATOMS 50 inch",
+        "category": "Television"
+    }
+    ,{
+        "name": "IFFALCON",
+        "id":10,
+        "image": "https://www.reliancedigital.in/medias/IFFALCON-32F2A-Televisions-491630497-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MTI1NnxpbWFnZS9qcGVnfGltYWdlcy9oMzYvaGQ3Lzk3MjcxMzkxMTkxMzQuanBnfDcyODI3NzE3ZmJmNmVhOWQ0NjkwMzA2YjQ2ZjFhNDg5YWE2NmRlOWIwODJlNWJmOGE2NjU0MzY1YTczOGIyZDc",
+        "price": 12563,
+        "description": "IFFALCON HD Smart Andriod TV 32F2A",
+        "category": "Television"
+    }
+    ,{
+        "name": "Toshiba",
+        "id":11,
+        "image": "https://www.reliancedigital.in/medias/Toshiba-43L5050-Televisions-491893299-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0MTMzNHxpbWFnZS9qcGVnfGltYWdlcy9oZjUvaGY4LzkzNzQ0MjU0ODEyNDYuanBnfDNlNzcxZDIzNjI3MTBkMzYzNzRmNGRkNWNlNjljZTg1YjlkZmQ4OTYyOWYyODhjZDAxNTljNGUwYmE0NWE1M2M",
+        "price": 53255,
+        "description": "Toshiba full HD Vidda OS Smart TV",
+        "category": "Television"
+    }
+    ,{
+        "name": "LG",
+        "id":2,
+        "image": "https://www.reliancedigital.in/medias/LG-32LK628BPTF-Television-491430788-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzMTQ4M3xpbWFnZS9qcGVnfGltYWdlcy9oODYvaDE5Lzk2MzM1MzMzOTQ5NzQuanBnfGExZmQ0MGU5NTZhZWQwNWU2MGVmNTBjN2EzZTdiYmEyN2VmZDY5ZWQxYTJkZjYyYjVkN2Q5ZWU3MjNiNDYxMDk",
+        "price": 21000,
+        "description": "LG HD Ready Smart LED TV 40 inch",
+        "category": "Television"
+    }
+    ,{
+        "name": "LG",
+        "id":3,
+        "image": "https://www.reliancedigital.in/medias/LG-OLED48CXPTA-Televisions-491973544-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1OTg2MnxpbWFnZS9qcGVnfGltYWdlcy9oMDUvaGUyLzk2NDMzOTA2NjQ3MzQuanBnfDQzMTE3NTM4OTZkMWM4MDg3ZjRlNWE1YjgxZmFhMzBjZjczZGQ3ZmRiM2QzOTA2ODA5MDkxYWI0NGZiMDE1NGU",
+        "price": 123400,
+        "description": "LG ULTRA HD Smart LED TV 48 inch",
+        "category": "Television"
+    }
+    ,{
+        "name": "Hisense",
+        "id":4,
+        "image": "https://www.reliancedigital.in/medias/HISENSE-50A73F-Smart-LED-492338738-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1ODM4NHxpbWFnZS9qcGVnfGltYWdlcy9oYmUvaDMyLzk3Nzg4NDI5MjcxMzQuanBnfDVhYmFiMDkwNDY3MWIwYmMxNjA0ZjFjNjBhMzhkNzVkYWExYTljNDc0YzhjOGYyNDg5NTcyZjVjYTVjNDMwY2M",
+        "price": 364563,
+        "description": "Hisense 4k ULTRA HD 50 inch",
+        "category": "Television"
+    }
+    ,{
+        "name": "Hisense",
+        "id":5,
+        "image": "https://www.reliancedigital.in/medias/HISENSE-55U6G-Smart-LED-492338741-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w3MzI5NHxpbWFnZS9qcGVnfGltYWdlcy9oODYvaDZiLzk3NzkyMzI4MzM1NjYuanBnfDI4NjQ5NDE0ZGRjOWI5NTQ5NDA3NDhiNGRiMWE3NDllN2I0ZjYxNjlmODM1NzRhYTY0NWMwOGM0ZWM4NjMwMzQ",
+        "price": 44990,
+        "description": "Hisense 4k ULTRA HD 55 inch",
+        "category": "Television"
+    }
+    ,{
+        "name": "LG",
+        "id":6,
+        "image": "https://www.reliancedigital.in/medias/LG-32LM636BPTB-Televisions-491431600-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNDg1NnxpbWFnZS9qcGVnfGltYWdlcy9oZDQvaGQ3LzkxNTczMTMyMzI5MjYuanBnfGU4M2RhODVkMDA0N2Y0NWY5YTEzYzE4Y2UwOWU1ZDdlZjYxMWU5MWIyOTBiOGVmNmU2NDk4MjcwZjc5NzU4MGQ",
+        "price": 17990,
+        "description": "LG HD Ready Smart LED TV 32 inch 32UHEUGDJUV",
+        "category": "Television"
+    }
+    ,{
+        "name": "LG",
+        "id":7,
+        "image": "https://www.reliancedigital.in/medias/LG-43-FHD-Smart-LED-TV-43LM5600-491898015-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4MDIzOXxpbWFnZS9qcGVnfGltYWdlcy9oYzgvaDQzLzk0NDE5NDA0NzE4MzguanBnfGMwYWFlODFhMTdkOTAyMDJlYmQ3NWEyNzQxOTJlNjc2OGZkYmZlNDA4NzJkZGI5MzY5ZDY3ZjU3MTRmODNmZTU",
+        "price": 27569,
+        "description": "LG ULTRA HD Smart LED TV 48 inch 43FBJHFNK",
+        "category": "Television"
+    }
+    ,{
+        "name": "TCL",
+        "id":8,
+        "image": "https://www.reliancedigital.in/medias/TCL-43S5200-Televisions-492403798-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNTM4OXxpbWFnZS9qcGVnfGltYWdlcy9oZTQvaDY5Lzk4MzI3MTE3NDk2NjIuanBnfGMzNDU1MGUwYTlkMzA0NTg4YWJiYzQ2MTg2YjFmZDYzM2EzZTkxZmY5MDc0ZGQ0NDY1NWMzMzE5NjU2NDg4MWY",
+        "price": 17563,
+        "description": "TCL HD Ready with DOLBY ATOMS",
+        "category": "Television"
+    }
+    ,{
+        "name": "TCL",
+        "id":9,
+        "image": "https://www.reliancedigital.in/medias/TCL-50C715-Televisions-491893430-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNTEwNXxpbWFnZS9qcGVnfGltYWdlcy9oYjUvaDJkLzk4MzI3MDk0NTU5MDIuanBnfDAwMWIzZTQ1YWMyZTQ5NGEyNzM4M2EzOTk5Mzc4YTU5ZmJmZGZhYWQ5YWYxMjkzZmI3NDE4ZTlmYjQ2YmU4NTA",
+        "price": 39652,
+        "description": "TCL HD Ready with DOLBY ATOMS 50 inch",
+        "category": "Television"
+    }
+    ,{
+        "name": "IFFALCON",
+        "id":10,
+        "image": "https://www.reliancedigital.in/medias/IFFALCON-32F2A-Televisions-491630497-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MTI1NnxpbWFnZS9qcGVnfGltYWdlcy9oMzYvaGQ3Lzk3MjcxMzkxMTkxMzQuanBnfDcyODI3NzE3ZmJmNmVhOWQ0NjkwMzA2YjQ2ZjFhNDg5YWE2NmRlOWIwODJlNWJmOGE2NjU0MzY1YTczOGIyZDc",
+        "price": 12563,
+        "description": "IFFALCON HD Smart Andriod TV 32F2A",
+        "category": "Television"
+    }
+    ,{
+        "name": "Toshiba",
+        "id":11,
+        "image": "https://www.reliancedigital.in/medias/Toshiba-43L5050-Televisions-491893299-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0MTMzNHxpbWFnZS9qcGVnfGltYWdlcy9oZjUvaGY4LzkzNzQ0MjU0ODEyNDYuanBnfDNlNzcxZDIzNjI3MTBkMzYzNzRmNGRkNWNlNjljZTg1YjlkZmQ4OTYyOWYyODhjZDAxNTljNGUwYmE0NWE1M2M",
+        "price": 53255,
+        "description": "Toshiba full HD Vidda OS Smart TV",
+        "category": "Television"
+    }
+    
+ ]
+}
